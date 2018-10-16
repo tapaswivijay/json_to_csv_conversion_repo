@@ -1,0 +1,54 @@
+[   {   
+        "id": "0001",
+        "type": "donut",
+        "name": "snack",
+        "ppu": { "num" : "0.55", "num1" : "0.63" },
+        "batters":
+                {
+                        "batter":
+                                [
+                                        { "id": "1001", "type": "Regular" },
+                                        { "id": "1002", "type": "Chocolate" },
+                                        { "id": "1003", "type": "Blueberry" },
+                                        { "id": "1004", "type": "Devil's Food" }
+                                ]
+                },
+        "topping":
+                [
+                        { "id": "5001", "type": "None" },
+                        { "id": "5002", "type": "Glazed" },
+                        { "id": "5005", "type": "Sugar" },
+                        { "id": "5007", "type": "Powdered Sugar" },
+                        { "id": "5006", "type": "Chocolate with Sprinkles" },
+                        { "id": "5003", "type": "Chocolate" },
+                        { "id": "5004", "type": "Maple" }
+                ]
+},
+
+   {
+        "id": "0002",
+        "type": "burger",
+        "name": "cheese",
+        "ppu": { "num" : "0.50", "num1" : "0.61" },
+        "batters":
+                {
+                        "batter":
+                                [
+                                        { "id": "1005", "type": "Regular" },
+                                        { "id": "1006", "type": "Chocolate" },
+                                        { "id": "1007", "type": "Blueberry" },
+                                        { "id": "1008", "type": "Devil's Food" }
+                                ]
+                },
+        "topping":
+                [
+                        { "id": "5008", "type": "None" },
+                        { "id": "5014", "type": "Glazed" },
+                        { "id": "5009", "type": "Sugar" },
+                        { "id": "5010", "type": "Powdered Sugar" },
+                        { "id": "5011", "type": "Chocolate with Sprinkles" },
+                        { "id": "5012", "type": "Chocolate" },
+                        { "id": "5013", "type": "Maple" }
+                ]
+   }
+]

@@ -1,0 +1,29 @@
+,id,name,ppu.num,ppu.num1,type,row_index,batters.batter_id,batters.batter_type,topping_id,topping_type
+0,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5008,None
+1,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5014,Glazed
+2,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5009,Sugar
+3,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5010,Powdered Sugar
+4,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5011,Chocolate with Sprinkles
+5,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5012,Chocolate
+6,0002,cheese,0.50,0.61,butterscotch,1,1005,Regular,5013,Maple
+7,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5008,None
+8,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5014,Glazed
+9,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5009,Sugar
+10,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5010,Powdered Sugar
+11,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5011,Chocolate with Sprinkles
+12,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5012,Chocolate
+13,0002,cheese,0.50,0.61,butterscotch,1,1006,Chocolate,5013,Maple
+14,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5008,None
+15,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5014,Glazed
+16,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5009,Sugar
+17,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5010,Powdered Sugar
+18,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5011,Chocolate with Sprinkles
+19,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5012,Chocolate
+20,0002,cheese,0.50,0.61,butterscotch,1,1007,Blueberry,5013,Maple
+21,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5008,None
+22,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5014,Glazed
+23,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5009,Sugar
+24,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5010,Powdered Sugar
+25,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5011,Chocolate with Sprinkles
+26,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5012,Chocolate
+27,0002,cheese,0.50,0.61,butterscotch,1,1008,Devil's Food,5013,Maple
