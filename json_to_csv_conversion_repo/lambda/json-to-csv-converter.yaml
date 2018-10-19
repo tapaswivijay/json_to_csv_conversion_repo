@@ -1,0 +1,29 @@
+﻿AWSTemplateFormatVersion: '2010-09-09'
+Transform: 'AWS::Serverless-2016-10-31'
+Description: An AWS Serverless Specification template describing your function.
+Resources:
+  jsontocsvconverter:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      Handler: json_to_csv_conversion_process.handler
+      Runtime: python2.7
+      CodeUri: .
+      Description: ''
+      MemorySize: 1024
+      Timeout: 300
+      Role: 'arn:aws:iam::691208029096:role/json-to-csv-converter'
+      Events:
+        BucketEvent1:
+          Type: S3
+          Properties:
+            Bucket:
+              Ref: Bucket1
+            Events:
+              - 's3:ObjectCreated:*'
+            Filter:
+              S3Key:
+                Rules:
+                  - Name: suffix
+                    Value: .json
+  Bucket1:
+    Type: 'AWS::S3::Bucket'
